@@ -1,0 +1,11 @@
+.bg-custom{
+	background-color:#ba68c8 purple lighten-2;
+}
+
+
+.navbar .nav-item:hover .nav-link{
+	background-color:white;
+	color:blue;
+	border-radius:10px;
+}
+}
